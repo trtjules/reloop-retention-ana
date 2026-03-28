@@ -1,0 +1,801 @@
+user_id,signup_date,acquisition_channel,country
+1,2026-01-06,Paid Social,Spain
+2,2026-01-21,Influencer,France
+3,2026-03-05,Referral,Germany
+4,2026-02-28,Paid Social,Germany
+5,2026-01-25,Organic,France
+6,2026-02-10,Organic,Spain
+7,2026-01-01,Organic,Italy
+8,2026-03-16,Influencer,Italy
+9,2026-03-03,Paid Social,Germany
+10,2026-01-27,Referral,France
+11,2026-03-15,Organic,Belgium
+12,2026-03-12,Influencer,Spain
+13,2026-03-06,Referral,France
+14,2026-03-05,Organic,Italy
+15,2026-02-05,Organic,Italy
+16,2026-03-18,Organic,Germany
+17,2026-03-02,Organic,Germany
+18,2026-03-03,Paid Social,France
+19,2026-01-13,Paid Social,France
+20,2026-03-20,Organic,France
+21,2026-03-26,Paid Social,Spain
+22,2026-01-08,Organic,France
+23,2026-03-30,Organic,France
+24,2026-01-08,Paid Social,France
+25,2026-01-20,Paid Social,Germany
+26,2026-02-11,Referral,Italy
+27,2026-02-23,Organic,France
+28,2026-03-09,Paid Social,France
+29,2026-03-03,Paid Social,Spain
+30,2026-02-06,Organic,Germany
+31,2026-01-27,Paid Social,France
+32,2026-02-06,Organic,Germany
+33,2026-02-28,Organic,France
+34,2026-01-20,Influencer,France
+35,2026-02-14,Influencer,Germany
+36,2026-03-15,Referral,France
+37,2026-03-06,Organic,Italy
+38,2026-03-20,Organic,France
+39,2026-01-31,Referral,Germany
+40,2026-01-30,Paid Social,Germany
+41,2026-01-15,Organic,France
+42,2026-03-31,Paid Social,Germany
+43,2026-01-26,Organic,France
+44,2026-01-09,Influencer,Belgium
+45,2026-03-13,Organic,France
+46,2026-01-26,Referral,France
+47,2026-02-17,Organic,France
+48,2026-01-11,Paid Social,Belgium
+49,2026-02-27,Paid Social,Germany
+50,2026-03-05,Organic,Germany
+51,2026-02-17,Influencer,France
+52,2026-03-12,Referral,Spain
+53,2026-01-20,Influencer,France
+54,2026-01-08,Influencer,Italy
+55,2026-01-05,Paid Social,France
+56,2026-02-15,Influencer,France
+57,2026-01-30,Organic,France
+58,2026-01-19,Organic,Germany
+59,2026-01-20,Organic,Germany
+60,2026-03-12,Organic,France
+61,2026-03-19,Paid Social,Spain
+62,2026-03-13,Organic,Germany
+63,2026-03-12,Referral,Germany
+64,2026-03-30,Paid Social,France
+65,2026-02-13,Organic,France
+66,2026-01-27,Paid Social,Germany
+67,2026-02-19,Organic,France
+68,2026-01-21,Referral,France
+69,2026-03-21,Organic,Italy
+70,2026-01-19,Influencer,Italy
+71,2026-03-15,Referral,France
+72,2026-01-17,Organic,France
+73,2026-03-04,Organic,Germany
+74,2026-01-21,Referral,France
+75,2026-03-27,Referral,France
+76,2026-03-25,Referral,France
+77,2026-02-26,Referral,Spain
+78,2026-02-26,Organic,Germany
+79,2026-03-15,Paid Social,France
+80,2026-02-25,Organic,France
+81,2026-02-08,Influencer,France
+82,2026-01-17,Paid Social,Germany
+83,2026-02-15,Organic,France
+84,2026-03-30,Organic,France
+85,2026-01-09,Organic,Spain
+86,2026-03-28,Organic,France
+87,2026-02-12,Referral,Germany
+88,2026-02-07,Paid Social,France
+89,2026-03-04,Influencer,France
+90,2026-02-11,Paid Social,France
+91,2026-02-11,Organic,Spain
+92,2026-02-14,Referral,Italy
+93,2026-03-31,Referral,Spain
+94,2026-01-13,Paid Social,France
+95,2026-03-07,Referral,Germany
+96,2026-03-03,Paid Social,France
+97,2026-01-15,Paid Social,France
+98,2026-03-24,Paid Social,Italy
+99,2026-01-29,Organic,France
+100,2026-03-06,Organic,France
+101,2026-01-21,Organic,France
+102,2026-01-28,Paid Social,France
+103,2026-03-17,Organic,France
+104,2026-03-26,Paid Social,Germany
+105,2026-02-25,Influencer,France
+106,2026-01-16,Organic,Italy
+107,2026-02-09,Paid Social,Spain
+108,2026-01-16,Referral,France
+109,2026-02-03,Organic,France
+110,2026-01-10,Organic,France
+111,2026-02-03,Organic,Germany
+112,2026-03-17,Organic,France
+113,2026-02-12,Influencer,Germany
+114,2026-01-20,Referral,France
+115,2026-03-27,Paid Social,Germany
+116,2026-03-20,Influencer,France
+117,2026-03-22,Referral,France
+118,2026-03-11,Organic,Italy
+119,2026-02-22,Influencer,Spain
+120,2026-01-07,Paid Social,France
+121,2026-01-17,Referral,Italy
+122,2026-02-13,Influencer,Germany
+123,2026-02-24,Organic,Italy
+124,2026-03-16,Organic,Spain
+125,2026-02-15,Organic,France
+126,2026-01-20,Paid Social,France
+127,2026-01-30,Referral,France
+128,2026-01-14,Influencer,Germany
+129,2026-02-18,Organic,Germany
+130,2026-02-07,Paid Social,France
+131,2026-03-25,Paid Social,France
+132,2026-01-06,Organic,Spain
+133,2026-02-08,Organic,Belgium
+134,2026-03-07,Organic,Germany
+135,2026-01-18,Influencer,France
+136,2026-03-23,Organic,France
+137,2026-01-03,Paid Social,France
+138,2026-03-23,Referral,Italy
+139,2026-01-12,Paid Social,France
+140,2026-03-31,Influencer,Germany
+141,2026-03-03,Influencer,France
+142,2026-02-21,Organic,Germany
+143,2026-01-06,Paid Social,Germany
+144,2026-02-01,Organic,Spain
+145,2026-01-13,Organic,France
+146,2026-01-19,Organic,France
+147,2026-01-11,Paid Social,France
+148,2026-03-02,Paid Social,Italy
+149,2026-01-24,Organic,Italy
+150,2026-01-02,Organic,Germany
+151,2026-01-21,Influencer,Germany
+152,2026-02-19,Organic,Germany
+153,2026-02-21,Organic,France
+154,2026-03-31,Paid Social,Italy
+155,2026-01-12,Influencer,France
+156,2026-03-30,Organic,France
+157,2026-03-06,Referral,Germany
+158,2026-01-14,Referral,France
+159,2026-03-10,Organic,France
+160,2026-02-04,Referral,Spain
+161,2026-01-18,Paid Social,France
+162,2026-03-30,Paid Social,Germany
+163,2026-02-09,Paid Social,France
+164,2026-03-24,Paid Social,France
+165,2026-03-02,Organic,France
+166,2026-03-15,Referral,France
+167,2026-03-09,Organic,Spain
+168,2026-01-12,Organic,France
+169,2026-03-27,Organic,Germany
+170,2026-03-08,Paid Social,Germany
+171,2026-02-10,Referral,Germany
+172,2026-01-03,Organic,Italy
+173,2026-02-23,Paid Social,Spain
+174,2026-01-25,Organic,France
+175,2026-03-14,Paid Social,France
+176,2026-01-30,Organic,France
+177,2026-03-03,Referral,Germany
+178,2026-01-18,Paid Social,France
+179,2026-03-07,Influencer,Germany
+180,2026-02-12,Organic,Germany
+181,2026-02-01,Organic,France
+182,2026-03-25,Organic,Spain
+183,2026-01-23,Influencer,France
+184,2026-01-01,Influencer,France
+185,2026-01-07,Organic,Spain
+186,2026-01-06,Referral,Germany
+187,2026-03-19,Referral,Germany
+188,2026-03-30,Paid Social,France
+189,2026-01-17,Paid Social,France
+190,2026-02-16,Organic,Spain
+191,2026-02-07,Organic,Spain
+192,2026-01-07,Influencer,Germany
+193,2026-01-27,Influencer,France
+194,2026-03-29,Paid Social,Germany
+195,2026-02-18,Organic,France
+196,2026-01-21,Organic,France
+197,2026-02-13,Referral,Italy
+198,2026-01-16,Influencer,France
+199,2026-01-09,Influencer,Belgium
+200,2026-01-06,Referral,France
+201,2026-02-16,Paid Social,France
+202,2026-02-04,Organic,Germany
+203,2026-02-23,Organic,Italy
+204,2026-02-15,Influencer,Spain
+205,2026-03-06,Paid Social,Spain
+206,2026-02-18,Organic,Germany
+207,2026-01-01,Organic,Germany
+208,2026-01-19,Referral,Spain
+209,2026-03-10,Organic,France
+210,2026-03-20,Organic,Germany
+211,2026-01-04,Paid Social,France
+212,2026-03-02,Referral,Belgium
+213,2026-01-30,Referral,Italy
+214,2026-03-15,Organic,France
+215,2026-02-19,Referral,Spain
+216,2026-03-11,Organic,Italy
+217,2026-02-06,Organic,France
+218,2026-02-11,Referral,Germany
+219,2026-01-22,Paid Social,Italy
+220,2026-02-26,Referral,France
+221,2026-01-13,Referral,Germany
+222,2026-01-16,Paid Social,France
+223,2026-01-01,Organic,Italy
+224,2026-03-15,Paid Social,Belgium
+225,2026-01-11,Organic,Italy
+226,2026-01-28,Organic,Germany
+227,2026-01-10,Influencer,Italy
+228,2026-03-13,Paid Social,Spain
+229,2026-01-25,Influencer,France
+230,2026-03-21,Paid Social,Spain
+231,2026-02-07,Referral,France
+232,2026-01-07,Paid Social,Germany
+233,2026-02-14,Paid Social,France
+234,2026-03-02,Paid Social,France
+235,2026-01-30,Organic,France
+236,2026-01-25,Referral,Germany
+237,2026-03-27,Organic,France
+238,2026-03-25,Organic,Spain
+239,2026-03-16,Paid Social,France
+240,2026-02-07,Organic,France
+241,2026-01-25,Influencer,Germany
+242,2026-02-25,Influencer,Spain
+243,2026-03-28,Influencer,France
+244,2026-01-26,Paid Social,Germany
+245,2026-01-26,Organic,Italy
+246,2026-03-03,Influencer,Germany
+247,2026-03-18,Paid Social,France
+248,2026-03-24,Influencer,France
+249,2026-03-01,Influencer,Italy
+250,2026-03-28,Influencer,France
+251,2026-03-17,Organic,Italy
+252,2026-02-23,Paid Social,Germany
+253,2026-02-25,Influencer,Italy
+254,2026-03-25,Organic,Spain
+255,2026-01-24,Organic,Belgium
+256,2026-02-24,Paid Social,France
+257,2026-03-08,Influencer,Spain
+258,2026-01-20,Referral,France
+259,2026-03-28,Paid Social,Germany
+260,2026-01-21,Organic,Germany
+261,2026-01-20,Paid Social,Italy
+262,2026-02-01,Influencer,Belgium
+263,2026-01-28,Organic,Spain
+264,2026-02-20,Paid Social,France
+265,2026-02-23,Influencer,France
+266,2026-02-11,Referral,Spain
+267,2026-02-26,Referral,France
+268,2026-02-08,Referral,France
+269,2026-01-23,Paid Social,France
+270,2026-02-03,Organic,France
+271,2026-03-05,Referral,France
+272,2026-01-23,Referral,France
+273,2026-03-20,Influencer,France
+274,2026-01-30,Influencer,France
+275,2026-01-16,Paid Social,Belgium
+276,2026-01-28,Paid Social,France
+277,2026-02-05,Referral,France
+278,2026-03-30,Paid Social,Germany
+279,2026-03-04,Referral,France
+280,2026-01-01,Referral,Italy
+281,2026-03-08,Influencer,Spain
+282,2026-03-21,Organic,France
+283,2026-03-28,Paid Social,France
+284,2026-01-09,Organic,Italy
+285,2026-03-21,Paid Social,Italy
+286,2026-03-22,Organic,Germany
+287,2026-01-22,Paid Social,Germany
+288,2026-03-24,Paid Social,France
+289,2026-02-26,Organic,Belgium
+290,2026-01-20,Paid Social,France
+291,2026-01-16,Organic,Italy
+292,2026-03-06,Organic,Germany
+293,2026-03-26,Referral,Germany
+294,2026-01-04,Paid Social,Germany
+295,2026-02-21,Organic,France
+296,2026-03-25,Paid Social,France
+297,2026-01-20,Referral,France
+298,2026-03-23,Organic,France
+299,2026-02-25,Paid Social,Spain
+300,2026-02-20,Organic,France
+301,2026-02-06,Organic,France
+302,2026-03-29,Paid Social,Belgium
+303,2026-01-28,Paid Social,Italy
+304,2026-01-18,Paid Social,Italy
+305,2026-02-04,Referral,Belgium
+306,2026-02-16,Influencer,France
+307,2026-01-17,Paid Social,France
+308,2026-02-06,Organic,Spain
+309,2026-01-10,Referral,Germany
+310,2026-01-31,Organic,France
+311,2026-03-20,Paid Social,Spain
+312,2026-02-15,Organic,France
+313,2026-01-23,Organic,France
+314,2026-03-06,Influencer,Germany
+315,2026-02-07,Referral,Germany
+316,2026-03-11,Referral,Germany
+317,2026-01-18,Paid Social,France
+318,2026-01-31,Organic,Italy
+319,2026-02-13,Organic,France
+320,2026-03-29,Organic,France
+321,2026-03-05,Paid Social,Italy
+322,2026-01-13,Referral,Belgium
+323,2026-01-07,Referral,Italy
+324,2026-03-24,Organic,Spain
+325,2026-03-16,Influencer,Germany
+326,2026-02-12,Referral,Germany
+327,2026-01-08,Paid Social,France
+328,2026-02-10,Paid Social,France
+329,2026-03-05,Paid Social,France
+330,2026-01-02,Organic,France
+331,2026-03-10,Paid Social,Spain
+332,2026-02-21,Referral,Germany
+333,2026-03-04,Organic,France
+334,2026-01-16,Organic,France
+335,2026-01-16,Organic,Germany
+336,2026-02-10,Organic,France
+337,2026-03-08,Influencer,Italy
+338,2026-03-10,Referral,Germany
+339,2026-01-02,Paid Social,Germany
+340,2026-02-02,Organic,Germany
+341,2026-01-07,Paid Social,Spain
+342,2026-01-09,Paid Social,France
+343,2026-03-06,Organic,Germany
+344,2026-02-19,Paid Social,Germany
+345,2026-03-07,Paid Social,France
+346,2026-02-05,Paid Social,Italy
+347,2026-02-03,Paid Social,Spain
+348,2026-02-24,Organic,Germany
+349,2026-01-14,Paid Social,Italy
+350,2026-03-07,Paid Social,Italy
+351,2026-03-13,Paid Social,Spain
+352,2026-03-03,Influencer,Spain
+353,2026-01-22,Referral,Germany
+354,2026-02-11,Organic,Germany
+355,2026-02-19,Organic,Germany
+356,2026-01-27,Paid Social,Spain
+357,2026-02-04,Organic,France
+358,2026-03-15,Paid Social,Italy
+359,2026-01-11,Influencer,Italy
+360,2026-03-10,Paid Social,France
+361,2026-03-07,Paid Social,Spain
+362,2026-03-09,Paid Social,France
+363,2026-02-19,Paid Social,France
+364,2026-03-07,Paid Social,Spain
+365,2026-02-26,Influencer,France
+366,2026-02-18,Paid Social,Spain
+367,2026-02-20,Influencer,Spain
+368,2026-03-14,Influencer,Germany
+369,2026-03-23,Organic,France
+370,2026-01-16,Organic,France
+371,2026-01-07,Organic,Germany
+372,2026-02-14,Organic,Belgium
+373,2026-02-08,Organic,Germany
+374,2026-01-22,Referral,France
+375,2026-01-10,Organic,Germany
+376,2026-02-16,Organic,Germany
+377,2026-03-07,Referral,Spain
+378,2026-02-23,Organic,France
+379,2026-03-03,Referral,Spain
+380,2026-01-13,Organic,Germany
+381,2026-01-04,Organic,Belgium
+382,2026-01-26,Referral,France
+383,2026-02-17,Paid Social,Germany
+384,2026-03-31,Influencer,Italy
+385,2026-02-22,Referral,France
+386,2026-03-03,Referral,Italy
+387,2026-02-11,Organic,Germany
+388,2026-03-20,Organic,France
+389,2026-02-14,Referral,France
+390,2026-03-07,Referral,Spain
+391,2026-01-08,Influencer,France
+392,2026-02-01,Paid Social,Germany
+393,2026-01-20,Paid Social,France
+394,2026-01-09,Referral,Germany
+395,2026-03-31,Organic,France
+396,2026-03-04,Influencer,Italy
+397,2026-03-07,Influencer,Belgium
+398,2026-02-02,Paid Social,Belgium
+399,2026-02-23,Referral,Spain
+400,2026-01-31,Referral,France
+401,2026-01-05,Organic,Spain
+402,2026-03-25,Influencer,France
+403,2026-02-17,Paid Social,France
+404,2026-01-28,Referral,France
+405,2026-02-11,Organic,Germany
+406,2026-03-11,Influencer,Spain
+407,2026-02-09,Paid Social,Germany
+408,2026-02-28,Organic,France
+409,2026-02-25,Influencer,France
+410,2026-01-18,Organic,Belgium
+411,2026-02-23,Organic,France
+412,2026-02-19,Influencer,Germany
+413,2026-01-09,Influencer,France
+414,2026-02-15,Paid Social,Spain
+415,2026-02-11,Paid Social,Germany
+416,2026-02-03,Paid Social,France
+417,2026-01-12,Organic,France
+418,2026-03-03,Organic,Germany
+419,2026-01-04,Referral,Germany
+420,2026-02-04,Referral,France
+421,2026-02-02,Referral,Belgium
+422,2026-02-12,Referral,France
+423,2026-02-15,Organic,France
+424,2026-03-12,Paid Social,Italy
+425,2026-02-11,Organic,France
+426,2026-01-03,Paid Social,Germany
+427,2026-01-09,Paid Social,France
+428,2026-02-21,Influencer,France
+429,2026-01-03,Paid Social,Belgium
+430,2026-03-20,Organic,France
+431,2026-01-14,Organic,Italy
+432,2026-01-13,Referral,France
+433,2026-03-28,Paid Social,France
+434,2026-03-22,Organic,France
+435,2026-01-08,Organic,Germany
+436,2026-01-27,Referral,France
+437,2026-03-31,Organic,Italy
+438,2026-01-15,Referral,Germany
+439,2026-02-01,Referral,Belgium
+440,2026-02-16,Organic,France
+441,2026-02-23,Organic,Italy
+442,2026-02-05,Influencer,Spain
+443,2026-03-17,Paid Social,Spain
+444,2026-01-23,Paid Social,Spain
+445,2026-01-14,Referral,Spain
+446,2026-01-22,Influencer,Germany
+447,2026-02-05,Influencer,France
+448,2026-02-12,Referral,France
+449,2026-02-13,Paid Social,Italy
+450,2026-03-23,Organic,Germany
+451,2026-03-13,Referral,Spain
+452,2026-01-11,Paid Social,Germany
+453,2026-01-19,Paid Social,France
+454,2026-01-13,Influencer,France
+455,2026-02-17,Organic,Germany
+456,2026-03-16,Paid Social,France
+457,2026-01-08,Organic,France
+458,2026-03-29,Paid Social,Germany
+459,2026-01-25,Organic,France
+460,2026-02-10,Organic,Germany
+461,2026-03-21,Organic,France
+462,2026-01-26,Paid Social,Spain
+463,2026-02-22,Referral,France
+464,2026-01-30,Paid Social,Germany
+465,2026-01-03,Influencer,France
+466,2026-01-14,Paid Social,France
+467,2026-02-08,Organic,France
+468,2026-02-10,Influencer,Germany
+469,2026-01-10,Organic,Germany
+470,2026-02-06,Influencer,France
+471,2026-02-09,Organic,Germany
+472,2026-01-16,Influencer,Italy
+473,2026-03-23,Organic,Spain
+474,2026-03-29,Influencer,France
+475,2026-03-13,Paid Social,Germany
+476,2026-01-30,Influencer,France
+477,2026-03-18,Organic,France
+478,2026-02-09,Paid Social,Belgium
+479,2026-02-09,Influencer,France
+480,2026-01-18,Paid Social,Germany
+481,2026-03-05,Paid Social,Germany
+482,2026-03-23,Referral,Spain
+483,2026-01-31,Paid Social,Germany
+484,2026-01-10,Paid Social,France
+485,2026-02-12,Paid Social,France
+486,2026-02-17,Influencer,Germany
+487,2026-01-23,Organic,France
+488,2026-03-14,Organic,France
+489,2026-03-15,Influencer,France
+490,2026-01-02,Influencer,France
+491,2026-02-19,Paid Social,France
+492,2026-01-20,Paid Social,France
+493,2026-03-13,Organic,Germany
+494,2026-02-11,Organic,Germany
+495,2026-01-29,Paid Social,Spain
+496,2026-02-22,Paid Social,France
+497,2026-02-22,Paid Social,France
+498,2026-03-24,Organic,France
+499,2026-03-04,Influencer,Germany
+500,2026-02-02,Influencer,Spain
+501,2026-03-09,Referral,France
+502,2026-02-17,Paid Social,Italy
+503,2026-02-26,Organic,France
+504,2026-03-21,Referral,Germany
+505,2026-01-18,Referral,Spain
+506,2026-02-04,Organic,Italy
+507,2026-03-30,Influencer,Spain
+508,2026-03-20,Referral,Spain
+509,2026-03-07,Influencer,France
+510,2026-03-07,Referral,Spain
+511,2026-03-28,Paid Social,France
+512,2026-02-16,Paid Social,Italy
+513,2026-02-14,Influencer,Germany
+514,2026-03-13,Influencer,Spain
+515,2026-01-11,Organic,Germany
+516,2026-03-21,Organic,Germany
+517,2026-01-21,Paid Social,Germany
+518,2026-03-06,Referral,Spain
+519,2026-01-11,Influencer,France
+520,2026-01-13,Organic,France
+521,2026-03-21,Paid Social,France
+522,2026-02-17,Paid Social,France
+523,2026-02-04,Influencer,Italy
+524,2026-01-14,Referral,France
+525,2026-03-03,Referral,Belgium
+526,2026-02-16,Paid Social,France
+527,2026-01-04,Paid Social,France
+528,2026-02-12,Organic,Spain
+529,2026-01-04,Organic,Germany
+530,2026-03-06,Influencer,Germany
+531,2026-03-05,Referral,Germany
+532,2026-01-03,Influencer,Spain
+533,2026-03-24,Influencer,France
+534,2026-03-20,Paid Social,Belgium
+535,2026-01-25,Referral,Belgium
+536,2026-02-21,Influencer,Germany
+537,2026-01-18,Referral,France
+538,2026-01-07,Organic,Germany
+539,2026-03-30,Paid Social,France
+540,2026-01-25,Organic,France
+541,2026-03-13,Influencer,France
+542,2026-01-01,Paid Social,Germany
+543,2026-02-08,Organic,Italy
+544,2026-02-27,Referral,Spain
+545,2026-01-23,Paid Social,Spain
+546,2026-03-03,Paid Social,France
+547,2026-01-05,Organic,France
+548,2026-02-18,Referral,France
+549,2026-02-07,Paid Social,Belgium
+550,2026-02-10,Referral,France
+551,2026-03-21,Paid Social,Italy
+552,2026-03-10,Influencer,Germany
+553,2026-01-30,Paid Social,France
+554,2026-02-23,Paid Social,Spain
+555,2026-03-22,Influencer,Germany
+556,2026-02-21,Paid Social,Italy
+557,2026-01-07,Organic,Italy
+558,2026-02-12,Organic,France
+559,2026-01-08,Referral,France
+560,2026-03-23,Paid Social,Germany
+561,2026-03-07,Referral,Italy
+562,2026-03-19,Organic,France
+563,2026-01-22,Organic,Germany
+564,2026-01-21,Organic,Germany
+565,2026-02-06,Paid Social,Spain
+566,2026-03-21,Paid Social,France
+567,2026-01-05,Paid Social,Spain
+568,2026-02-01,Paid Social,Italy
+569,2026-01-07,Influencer,France
+570,2026-03-15,Organic,France
+571,2026-02-24,Paid Social,Belgium
+572,2026-02-19,Referral,France
+573,2026-02-02,Paid Social,Italy
+574,2026-03-28,Paid Social,Germany
+575,2026-02-25,Influencer,France
+576,2026-03-11,Influencer,Italy
+577,2026-03-02,Organic,France
+578,2026-02-21,Influencer,Germany
+579,2026-01-19,Paid Social,France
+580,2026-03-14,Organic,Germany
+581,2026-02-18,Paid Social,France
+582,2026-01-31,Influencer,France
+583,2026-01-28,Paid Social,Belgium
+584,2026-02-18,Organic,France
+585,2026-03-02,Paid Social,Germany
+586,2026-02-25,Organic,France
+587,2026-01-13,Organic,Spain
+588,2026-01-12,Organic,France
+589,2026-03-02,Organic,Belgium
+590,2026-03-21,Organic,Germany
+591,2026-01-07,Organic,France
+592,2026-02-02,Paid Social,France
+593,2026-02-18,Organic,France
+594,2026-03-14,Organic,Germany
+595,2026-02-11,Influencer,France
+596,2026-03-19,Paid Social,Spain
+597,2026-01-11,Referral,France
+598,2026-03-09,Organic,France
+599,2026-03-09,Organic,Germany
+600,2026-03-27,Organic,Spain
+601,2026-01-01,Organic,France
+602,2026-03-06,Organic,France
+603,2026-01-13,Organic,France
+604,2026-03-26,Organic,Spain
+605,2026-03-01,Organic,Germany
+606,2026-02-12,Paid Social,Germany
+607,2026-02-05,Organic,Spain
+608,2026-01-11,Paid Social,Spain
+609,2026-03-06,Paid Social,Germany
+610,2026-03-25,Referral,Italy
+611,2026-01-15,Organic,France
+612,2026-03-26,Referral,France
+613,2026-03-19,Paid Social,France
+614,2026-02-11,Organic,France
+615,2026-01-22,Influencer,Germany
+616,2026-02-16,Influencer,Italy
+617,2026-01-05,Organic,France
+618,2026-01-22,Organic,France
+619,2026-03-27,Referral,Germany
+620,2026-01-02,Referral,Italy
+621,2026-03-04,Organic,France
+622,2026-02-01,Organic,Germany
+623,2026-01-29,Paid Social,France
+624,2026-01-13,Paid Social,France
+625,2026-02-19,Paid Social,Belgium
+626,2026-03-08,Paid Social,Belgium
+627,2026-03-01,Paid Social,France
+628,2026-01-17,Referral,Belgium
+629,2026-01-19,Organic,Germany
+630,2026-03-16,Organic,Italy
+631,2026-01-02,Referral,Germany
+632,2026-01-26,Influencer,Germany
+633,2026-01-04,Paid Social,Germany
+634,2026-02-20,Paid Social,Germany
+635,2026-01-14,Organic,France
+636,2026-03-30,Paid Social,France
+637,2026-02-15,Paid Social,France
+638,2026-03-05,Organic,Spain
+639,2026-03-05,Organic,France
+640,2026-01-31,Paid Social,Germany
+641,2026-01-27,Organic,Belgium
+642,2026-01-18,Organic,France
+643,2026-01-01,Organic,Germany
+644,2026-01-08,Organic,France
+645,2026-01-20,Organic,Italy
+646,2026-01-31,Influencer,France
+647,2026-01-10,Paid Social,Germany
+648,2026-02-25,Referral,Spain
+649,2026-02-20,Referral,Italy
+650,2026-03-11,Paid Social,Germany
+651,2026-01-08,Organic,Germany
+652,2026-03-09,Paid Social,Germany
+653,2026-01-21,Paid Social,Italy
+654,2026-01-10,Referral,Germany
+655,2026-01-28,Paid Social,France
+656,2026-02-04,Organic,Italy
+657,2026-02-24,Organic,Germany
+658,2026-02-28,Paid Social,Germany
+659,2026-01-22,Paid Social,France
+660,2026-01-24,Paid Social,Germany
+661,2026-01-22,Paid Social,France
+662,2026-01-12,Influencer,Germany
+663,2026-02-27,Paid Social,France
+664,2026-01-10,Organic,Germany
+665,2026-01-28,Organic,Belgium
+666,2026-03-18,Organic,France
+667,2026-03-07,Organic,Belgium
+668,2026-03-27,Organic,France
+669,2026-02-27,Organic,Italy
+670,2026-03-21,Organic,Spain
+671,2026-02-16,Organic,Germany
+672,2026-03-22,Influencer,Spain
+673,2026-01-14,Organic,Italy
+674,2026-01-18,Paid Social,France
+675,2026-02-06,Paid Social,France
+676,2026-03-12,Influencer,Germany
+677,2026-02-07,Organic,Spain
+678,2026-03-29,Paid Social,Spain
+679,2026-01-01,Influencer,Spain
+680,2026-01-07,Influencer,France
+681,2026-01-29,Referral,Spain
+682,2026-03-27,Organic,France
+683,2026-03-03,Organic,Germany
+684,2026-02-23,Referral,France
+685,2026-02-07,Influencer,France
+686,2026-01-29,Paid Social,France
+687,2026-02-12,Paid Social,France
+688,2026-03-20,Organic,Germany
+689,2026-02-08,Referral,France
+690,2026-02-02,Organic,France
+691,2026-03-15,Organic,France
+692,2026-01-08,Paid Social,France
+693,2026-03-27,Paid Social,France
+694,2026-03-21,Organic,France
+695,2026-01-14,Organic,Germany
+696,2026-03-16,Paid Social,Germany
+697,2026-02-07,Organic,Germany
+698,2026-03-02,Paid Social,Germany
+699,2026-02-02,Organic,France
+700,2026-02-01,Paid Social,Italy
+701,2026-02-14,Paid Social,Germany
+702,2026-02-17,Organic,Germany
+703,2026-01-28,Organic,France
+704,2026-01-20,Organic,France
+705,2026-01-13,Organic,France
+706,2026-02-18,Influencer,France
+707,2026-02-22,Organic,Germany
+708,2026-03-29,Referral,Germany
+709,2026-02-24,Organic,Germany
+710,2026-01-12,Referral,Spain
+711,2026-03-11,Referral,Spain
+712,2026-02-07,Paid Social,Spain
+713,2026-02-06,Paid Social,Belgium
+714,2026-01-05,Paid Social,France
+715,2026-02-13,Organic,France
+716,2026-03-02,Influencer,France
+717,2026-03-24,Referral,Germany
+718,2026-03-22,Influencer,Italy
+719,2026-02-21,Organic,France
+720,2026-02-21,Referral,Italy
+721,2026-02-06,Influencer,France
+722,2026-01-08,Organic,Italy
+723,2026-01-01,Organic,France
+724,2026-02-18,Referral,France
+725,2026-03-07,Paid Social,Germany
+726,2026-01-10,Referral,France
+727,2026-03-16,Organic,France
+728,2026-01-04,Referral,France
+729,2026-03-09,Organic,Spain
+730,2026-03-25,Organic,Germany
+731,2026-01-27,Organic,France
+732,2026-01-15,Referral,Germany
+733,2026-02-05,Referral,Spain
+734,2026-01-22,Paid Social,France
+735,2026-01-27,Paid Social,France
+736,2026-02-26,Influencer,France
+737,2026-03-29,Paid Social,France
+738,2026-01-15,Referral,Germany
+739,2026-02-27,Paid Social,France
+740,2026-03-10,Paid Social,Germany
+741,2026-01-09,Paid Social,Spain
+742,2026-01-20,Organic,France
+743,2026-02-16,Referral,Germany
+744,2026-02-28,Paid Social,France
+745,2026-02-17,Organic,Belgium
+746,2026-01-18,Influencer,Germany
+747,2026-03-22,Paid Social,Spain
+748,2026-01-03,Paid Social,Germany
+749,2026-02-06,Influencer,France
+750,2026-03-21,Paid Social,Germany
+751,2026-02-27,Organic,Belgium
+752,2026-03-12,Influencer,Germany
+753,2026-02-07,Paid Social,Spain
+754,2026-01-17,Organic,Italy
+755,2026-03-05,Organic,France
+756,2026-01-07,Referral,France
+757,2026-02-13,Paid Social,Germany
+758,2026-03-05,Paid Social,France
+759,2026-01-23,Influencer,Spain
+760,2026-01-15,Referral,Italy
+761,2026-01-20,Organic,France
+762,2026-01-02,Organic,France
+763,2026-01-24,Organic,Spain
+764,2026-02-21,Referral,France
+765,2026-02-08,Organic,Spain
+766,2026-03-22,Paid Social,France
+767,2026-03-25,Referral,Germany
+768,2026-01-09,Influencer,France
+769,2026-03-14,Organic,Germany
+770,2026-02-20,Referral,Germany
+771,2026-02-04,Organic,Germany
+772,2026-01-24,Referral,France
+773,2026-02-02,Organic,Spain
+774,2026-01-10,Paid Social,Italy
+775,2026-01-04,Referral,France
+776,2026-02-18,Organic,France
+777,2026-01-18,Organic,France
+778,2026-01-29,Referral,Germany
+779,2026-03-20,Referral,Germany
+780,2026-01-18,Paid Social,Germany
+781,2026-03-17,Referral,France
+782,2026-01-21,Paid Social,France
+783,2026-02-27,Organic,Germany
+784,2026-02-24,Organic,Germany
+785,2026-01-10,Organic,Belgium
+786,2026-02-09,Influencer,France
+787,2026-01-12,Paid Social,Germany
+788,2026-03-21,Paid Social,France
+789,2026-02-19,Paid Social,France
+790,2026-01-20,Influencer,Spain
+791,2026-02-18,Organic,Germany
+792,2026-01-23,Paid Social,Belgium
+793,2026-01-22,Paid Social,France
+794,2026-01-28,Paid Social,France
+795,2026-03-03,Organic,Spain
+796,2026-02-17,Influencer,Germany
+797,2026-03-09,Influencer,France
+798,2026-01-23,Paid Social,France
+799,2026-01-10,Referral,France
+800,2026-02-21,Influencer,Italy
